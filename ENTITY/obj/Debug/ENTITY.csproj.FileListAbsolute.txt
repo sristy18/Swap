@@ -1,0 +1,5 @@
+c:\Users\NS\documents\visual studio 2013\Projects\UI\ENTITY\bin\Debug\ENTITY.dll
+c:\Users\NS\documents\visual studio 2013\Projects\UI\ENTITY\bin\Debug\ENTITY.pdb
+c:\Users\NS\documents\visual studio 2013\Projects\UI\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+c:\Users\NS\documents\visual studio 2013\Projects\UI\ENTITY\obj\Debug\ENTITY.dll
+c:\Users\NS\documents\visual studio 2013\Projects\UI\ENTITY\obj\Debug\ENTITY.pdb

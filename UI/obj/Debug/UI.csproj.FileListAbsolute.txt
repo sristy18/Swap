@@ -1,0 +1,34 @@
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\bin\Debug\UI.exe.config
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\bin\Debug\UI.exe
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\bin\Debug\UI.pdb
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.Form1.resources
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.Properties.Resources.resources
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.exe
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.pdb
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NS\Documents\Visual Studio 2013\Projects\UI\UI\bin\Debug\BO.dll
+C:\Users\NS\Documents\Visual Studio 2013\Projects\UI\UI\bin\Debug\ENTITY.dll
+C:\Users\NS\Documents\Visual Studio 2013\Projects\UI\UI\bin\Debug\BO.pdb
+C:\Users\NS\Documents\Visual Studio 2013\Projects\UI\UI\bin\Debug\ENTITY.pdb
+C:\Users\NS\Documents\Visual Studio 2013\Projects\UI\UI\obj\Debug\UI.GetInfo.resources
+D:\yep\UI\UI\bin\Debug\UI.exe.config
+D:\yep\UI\UI\obj\Debug\UI.exe
+D:\yep\UI\UI\obj\Debug\UI.pdb
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\bin\Debug\UI.exe.config
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\obj\Debug\UI.exe
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\obj\Debug\UI.pdb
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\obj\Debug\UI.GetInfo.resources
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\bin\Debug\UI.exe
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\bin\Debug\UI.pdb
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\bin\Debug\BO.dll
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\bin\Debug\ENTITY.dll
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\bin\Debug\BO.pdb
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\bin\Debug\ENTITY.pdb
+C:\Users\sristy\Desktop\New folder\UI - Copy\UI\obj\Debug\UI.SwappingPanel.resources
+C:\Users\sristy\Desktop\yep\lesestpanel\UI\bin\Debug\UI.exe.config
+C:\Users\sristy\Desktop\yep\lesestpanel\UI\obj\Debug\UI.exe
+C:\Users\sristy\Desktop\yep\lesestpanel\UI\obj\Debug\UI.pdb
